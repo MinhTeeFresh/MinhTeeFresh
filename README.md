@@ -25,13 +25,11 @@ Right now I am interested in web application making and web design. I have previ
 I am looking to expand my skills and continue to produce amazing code! 💻
 
 ## Current Projects 📈
-### Capstone Project
-I am working with my team to create a sorting process to organize FAA NOTAMs to allow faster and easier access for pilots
 
 ### Personal Portfolio
 An older project I started back awhile ago and never finished. I'll be working to finish that complete with my resume
 
-### Club Website
-I will be working with club member executives to create the website for the newly formed UI/UX Club at my university
+### Youtube Queue List
+I'm tired of opening up tab after tab when the click-bait works. I need to preserve that local storage you know? But their queue feature is locked behind Youtube Premium, so I'm making my own.
 
 
